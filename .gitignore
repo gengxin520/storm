@@ -1,0 +1,49 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+
+target
+*.iml
+.idea
+logs
+.DS_Store
+logs/*
+.idea/*
+
+/.settings/  
+/target/  
+  
+# Java class files  
+*.class  
+*.jar  
+  
+# Eclipse project files  
+.classpath  
+.project  
+.DS_Store  
+
+/tmp/
+
+
