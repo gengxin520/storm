@@ -1,0 +1,77 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.accordion {
+	width: 1180px;
+	overflow: hidden;
+	height: 475px;
+	margin: 0 auto;
+}
+
+.accordion ul {
+	padding: 0;
+	margin: 0 0 0 0;
+}
+
+.accordion ul li {
+	list-style: none;
+	float: left;
+	background-repeat: no-repeat;
+	float: left;
+	width: 140px;
+	height: 350px;
+	cursor: default;
+}
+
+.accordion ul li.active {
+	width: 620px;
+}
+
+.accordion ul .item1 {
+	background-image: url(../img/menu/pic1.jpg);
+}
+
+.accordion ul .item2 {
+	background-image: url(../img/menu/pic2.jpg);
+}
+
+.accordion ul .item3 {
+	background-image: url(../img/menu/pic3.jpg);
+}
+
+.accordion ul .item4 {
+	background-image: url(../img/menu/pic4.jpg);
+}
+
+.accordion ul .item5 {
+	background-image: url(../img/menu/pic5.jpg);
+}
+
+.accordion ul li a {
+	display: block;
+	width: 140px;
+	height: 350px;
+	cursor: default;
+}
+
+.accordion ul .item1 a {
+	background-image: url(../img/menu/pics1.jpg);
+}
+
+.accordion ul .item2 a {
+	background-image: url(../img/menu/pics2.jpg);
+}
+
+.accordion ul .item3 a {
+	background-image: url(../img/menu/pics3.jpg);
+}
+
+.accordion ul .item4 a {
+	background-image: url(../img/menu/pics4.jpg);
+}
+
+.accordion ul .item5 a {
+	background-image: url(../img/menu/pics5.jpg);
+}
